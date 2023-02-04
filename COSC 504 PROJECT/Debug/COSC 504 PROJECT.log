@@ -1,0 +1,14 @@
+﻿  COSC 504 PROJECT.cpp
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(69,9): warning C4101: 'x': unreferenced local variable
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(190,6): warning C4102: 'lebel': unreferenced label
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(215,7): warning C4102: 'lebel1': unreferenced label
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(188,17): warning C4101: 'redo2': unreferenced local variable
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(188,10): warning C4101: 'redo1': unreferenced local variable
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(365,41): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(308,10): warning C4101: 'doMore': unreferenced local variable
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(538,9): warning C4101: 'temp2': unreferenced local variable
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(539,10): warning C4101: 'temp': unreferenced local variable
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(539,16): warning C4101: 'temp1': unreferenced local variable
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(591,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\COSC 504 PROJECT\COSC 504 PROJECT\COSC 504 PROJECT.cpp(624,10): warning C4101: 'operation': unreferenced local variable
+  COSC 504 PROJECT.vcxproj -> C:\Users\ADMIN\source\repos\COSC 504 PROJECT\Debug\COSC 504 PROJECT.exe
